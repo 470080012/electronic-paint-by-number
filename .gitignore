@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+node_modules/
+/上传包/
+/检查报告/

@@ -1,0 +1,325 @@
+{
+  "font": {
+    "name": "ZCOOL KuaiLe / 站酷快乐体",
+    "source": "https://github.com/google/fonts/tree/main/ofl/zcoolkuaile",
+    "license": "SIL Open Font License 1.1",
+    "modification": "Subset to UI characters; font family StudioRound",
+    "licenseText": "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://openfontlicense.org\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded, \nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n"
+  },
+  "photos": [
+    {
+      "file": "photo-tabby.jpg",
+      "title": "Cat portrait (Unsplash)",
+      "author": "Anton Petrov / aptrov",
+      "license": "CC0 1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cat_portrait_(Unsplash).jpg",
+      "changes": "Resized and JPEG recompressed"
+    },
+    {
+      "file": "photo-cat.jpg",
+      "title": "Closeup photo of a cat",
+      "author": "RobotBlanket",
+      "license": "CC0 1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Closeup_photo_of_a_cat.jpg",
+      "changes": "Resized and JPEG recompressed"
+    }
+  ],
+  "gallery": {
+    "source": "User-provided final UI reference image",
+    "changes": "Artwork crops for prototype testing",
+    "status": "Prototype placeholders; replace with final source artwork for publication"
+  },
+  "icons": {
+    "source": "Original code-native SVG drawing for this project"
+  },
+  "beginnerIllustration": {
+    "file": "easy.webp",
+    "title": "草莓奶油蛋糕",
+    "source": "Original artwork generated with built-in imagegen for this project",
+    "template": "easy.js; twelve colors, twenty-six connected regions; precompiled with the offline engine and adjacent-region cleanup",
+    "original": "参考资料/草莓奶油蛋糕-原创油画.png",
+    "prompt": "参考资料/草莓奶油蛋糕-生成提示词.md",
+    "runtime": "No online AI or network requests; all filled pixels use the real region palette and user mask"
+  },
+  "openArt": [
+    {
+      "file": "fruit-original.webp",
+      "title": "Three Peaches on a Plate / 盘中三桃",
+      "artist": "Henri Fantin-Latour",
+      "date": "1868",
+      "collection": "National Gallery of Art, Washington",
+      "credit": "Courtesy National Gallery of Art, Washington",
+      "accession": "1994.59.7",
+      "license": "CC0 1.0",
+      "source": "https://www.nga.gov/artworks/89679-three-peaches-plate",
+      "licenseSource": "https://www.nga.gov/terms-and-notices",
+      "originalDownload": "https://api.nga.gov/iiif/382f0d18-13f7-4d42-8a39-053b781541e3/full/full/0/default.jpg",
+      "changes": "Resized and encoded as WebP. Actual fill template fruit.js and cover fruit.webp quantized from the artwork into 10 colors and 22 connected regions. Original aspect ratio retained. No AI generation or runtime network."
+    }
+  ],
+  "selectedArt": [
+    {
+      "file": "bakery.webp",
+      "title": "草莓柑橘甜品店",
+      "source": "User-attached artwork explicitly selected for the gallery on 2026-11-11",
+      "original": "参考资料/用户确认素材_20261111/草莓柑橘甜品店/用户指定原画.png",
+      "originalSha256": "8215466440fea67d2e2f79362bbda59d71ad9d75ca16228807c00b4f95b49881",
+      "template": "bakery.js",
+      "changes": "Prepared offline with the existing engine, 64 requested colors / 59 retained colors, 510 connected regions. Narrow regions were merged into adjacent similar colors. The cover and in-app reference show the actual completed palette image.",
+      "runtime": "Bundled static template; no runtime image generation or network requests."
+    }
+  ],
+  "styleExamples": [
+    {
+      "file": "style-oil.webp",
+      "title": "柔和油画三花猫",
+      "source": "Created with built-in imagegen for this project on 2026-11-12",
+      "role": "Illustrative style reference only; the offline conversion algorithm is unchanged",
+      "original": "参考资料/风格示意素材_20261112/柔和油画三花猫/原始生成图.png",
+      "prompt": "参考资料/风格示意素材_20261112/柔和油画三花猫/生成提示词.txt",
+      "sha256": "57f6ce608f0de4d2e7520bb27d575d9454d01ccf6307bc4fe40bd7cf7c9e4d01",
+      "changes": "Resized and encoded as a 640x320 WebP thumbnail",
+      "status": "Archived reference artwork; no longer used by the style choices. Original file retained."
+    }
+  ],
+  "originalGallery20261112": {
+    "source": "Original artwork generated with built-in imagegen; originals and prompts retained in the project reference archive.",
+    "coverBasis": "Actual completed region-palette render, not the unprocessed generated original.",
+    "retiredPrototypeCards": [
+      "cottage",
+      "flowers",
+      "cat-art",
+      "strawberry",
+      "cafe"
+    ],
+    "retirementScope": "Removed from gallery only; legacy assets, templates and saved works retained.",
+    "artworks": [
+      {
+        "id": "peach-soda",
+        "title": "蜜桃气泡饮",
+        "key": "gallery-peach-soda-v1",
+        "file": "peach-soda.webp",
+        "colors": 56,
+        "regions": 372
+      },
+      {
+        "id": "strawberry-pancakes",
+        "title": "草莓奶油松饼",
+        "key": "gallery-strawberry-pancakes-v1",
+        "file": "strawberry-pancakes.webp",
+        "colors": 61,
+        "regions": 459
+      },
+      {
+        "id": "lemon-fizz",
+        "title": "柠檬冰汽水",
+        "key": "gallery-lemon-fizz-v1",
+        "file": "lemon-fizz.webp",
+        "colors": 44,
+        "regions": 295
+      },
+      {
+        "id": "cherry-bowl",
+        "title": "樱桃与白瓷碗",
+        "key": "gallery-cherry-bowl-v1",
+        "file": "cherry-bowl.webp",
+        "colors": 36,
+        "regions": 242
+      },
+      {
+        "id": "blueberry-cake",
+        "title": "蓝莓奶油蛋糕",
+        "key": "gallery-blueberry-cake-v1",
+        "file": "blueberry-cake.webp",
+        "colors": 60,
+        "regions": 312
+      },
+      {
+        "id": "citrus-picnic",
+        "title": "柑橘面包野餐",
+        "key": "gallery-citrus-picnic-v1",
+        "file": "citrus-picnic.webp",
+        "colors": 88,
+        "regions": 657
+      },
+      {
+        "id": "sunny-cat",
+        "title": "奶油团子猫",
+        "key": "gallery-sunny-cat-v1",
+        "file": "sunny-cat.webp",
+        "colors": 62,
+        "regions": 335
+      },
+      {
+        "id": "hydrangea-window",
+        "title": "雨后绣球花窗",
+        "key": "gallery-hydrangea-window-v1",
+        "file": "hydrangea-window.webp",
+        "colors": 63,
+        "regions": 429
+      },
+      {
+        "id": "lemon-courtyard",
+        "title": "盛夏柠檬庭院",
+        "key": "gallery-lemon-courtyard-v1",
+        "file": "lemon-courtyard.webp",
+        "colors": 90,
+        "regions": 582
+      },
+      {
+        "id": "twilight-cafe",
+        "title": "灯火咖啡小街",
+        "key": "gallery-twilight-cafe-v1",
+        "file": "twilight-cafe.webp",
+        "colors": 91,
+        "regions": 640
+      },
+      {
+        "id": "strawberry-toast",
+        "title": "草莓奶油吐司",
+        "key": "gallery-strawberry-toast-v1",
+        "file": "strawberry-toast.webp",
+        "colors": 44,
+        "regions": 246
+      },
+      {
+        "id": "matcha-sundae",
+        "title": "抹茶草莓冰淇淋",
+        "key": "gallery-matcha-sundae-v1",
+        "file": "matcha-sundae.webp",
+        "colors": 60,
+        "regions": 427
+      },
+      {
+        "id": "caramel-pudding",
+        "title": "焦糖布丁拿铁",
+        "key": "gallery-caramel-pudding-v1",
+        "file": "caramel-pudding.webp",
+        "colors": 63,
+        "regions": 276
+      }
+    ]
+  },
+  "actualStylePreviews20261112": {
+    "source": "The same bundled CC0 sample photograph photo-tabby.jpg, by Anton Petrov / aptrov; attribution and license retained in photos.",
+    "settings": {
+      "colors": 96,
+      "detail": "fine",
+      "maxSide": 640
+    },
+    "changes": "Actual local-engine palette render, resized and cropped to 640x320 WebP for the existing style cards. No AI repaint or external runtime request.",
+    "files": [
+      {
+        "file": "style-cute-preview.webp",
+        "style": "cute",
+        "label": "柔和插画",
+        "colors": 72,
+        "regions": 276
+      },
+      {
+        "file": "style-oil-preview.webp",
+        "style": "oil",
+        "label": "经典油画",
+        "colors": 82,
+        "regions": 458
+      }
+    ]
+  },
+  "selectedFollowGifts20261113": {
+    "source": "User-provided images explicitly selected for follow gifts on 2026-11-13; no authorship or third-party license inferred.",
+    "coverBasis": "Actual completed region-palette render of the playable template.",
+    "templateFile": "gallery-gifts.js",
+    "artworks": [
+      {
+        "id": "gift-rose-bakery",
+        "title": "玫瑰面包房",
+        "file": "gift-rose-bakery.webp",
+        "original": "参考资料/用户确认关注礼_20261113/玫瑰面包房/用户提供原图.png",
+        "originalSha256": "00756e5c84a87f0c3817145608f246012c48799fef764136cd8b0277b9c937d7",
+        "colors": 92,
+        "regions": 750
+      },
+      {
+        "id": "gift-sunny-market",
+        "title": "暖阳果蔬铺",
+        "file": "gift-sunny-market.webp",
+        "original": "参考资料/用户确认关注礼_20261113/暖阳果蔬铺/用户提供原图.png",
+        "originalSha256": "72edeb5ed36626ac284406dc4913d320f308758b049595b8f2f12c88a4579aa7",
+        "colors": 83,
+        "regions": 735
+      },
+      {
+        "id": "gift-summer-cooler",
+        "title": "夏日冰饮箱",
+        "file": "gift-summer-cooler.webp",
+        "original": "参考资料/用户确认关注礼_20261113/夏日冰饮箱/用户提供原图.png",
+        "originalSha256": "34ffa6b565bc23b49f49503742d3eaa44061917472df56fdb533f4eb9e830b68",
+        "colors": 86,
+        "regions": 635
+      },
+      {
+        "id": "gift-moonlit-noodles",
+        "title": "月夜泡面时光",
+        "file": "gift-moonlit-noodles.webp",
+        "original": "参考资料/用户确认关注礼_20261113/月夜泡面时光/用户提供原图.png",
+        "originalSha256": "0191c9c365d92740846fea33d1be9c83a764cce41fbd5f7c1374252caaac833d",
+        "colors": 72,
+        "regions": 528
+      }
+    ],
+    "status": "Promoted unchanged to the public gallery on user request; no longer requires a gift claim."
+  },
+  "seasideFollowGifts20261113": {
+    "source": "Five user-provided images explicitly selected as replacement follow gifts on 2026-11-13; no authorship or third-party license inferred.",
+    "templateFile": "gallery-follow-gifts.js",
+    "giftVersion": "follow-gift-v3",
+    "coverBasis": "Actual completed template palette render",
+    "artworks": [
+      {
+        "id": "gift-seaside-snacks",
+        "title": "海风零食铺",
+        "file": "gift-seaside-snacks.webp",
+        "original": "参考资料/用户确认海边关注礼_20261113/海风零食铺/用户提供原图.png",
+        "originalSha256": "3fa6dcb6b7e260971335d40cabd12dd43150bafaa42420ac4f79451d203c50bc",
+        "colors": 103,
+        "regions": 733
+      },
+      {
+        "id": "gift-seaside-fruit",
+        "title": "缤纷水果摊",
+        "file": "gift-seaside-fruit.webp",
+        "original": "参考资料/用户确认海边关注礼_20261113/缤纷水果摊/用户提供原图.png",
+        "originalSha256": "969927c08fd44a5607805406c7e00347908b11267034e315bfb887b7f4e306fb",
+        "colors": 109,
+        "regions": 689
+      },
+      {
+        "id": "gift-seaside-icecream",
+        "title": "海边冰淇淋车",
+        "file": "gift-seaside-icecream.webp",
+        "original": "参考资料/用户确认海边关注礼_20261113/海边冰淇淋车/用户提供原图.png",
+        "originalSha256": "00c2e252f1656a02d81b546ff55048b158352ac3835e1b1b10e173c5f6bc8af7",
+        "colors": 111,
+        "regions": 712
+      },
+      {
+        "id": "gift-seaside-soda",
+        "title": "夏日汽水吧",
+        "file": "gift-seaside-soda.webp",
+        "original": "参考资料/用户确认海边关注礼_20261113/夏日汽水吧/用户提供原图.png",
+        "originalSha256": "18b84cee46dad540407ce987d0d87418e1b585a8e876a441da1131935a38790a",
+        "colors": 102,
+        "regions": 708
+      },
+      {
+        "id": "gift-seaside-cafe",
+        "title": "花窗海景咖啡馆",
+        "file": "gift-seaside-cafe.webp",
+        "original": "参考资料/用户确认海边关注礼_20261113/花窗海景咖啡馆/用户提供原图.png",
+        "originalSha256": "292ceb1c1270404f72397f8a4875840a5bceb6c1d23101dc2ba2d2857e4cf56f",
+        "colors": 107,
+        "regions": 711
+      }
+    ]
+  }
+}
